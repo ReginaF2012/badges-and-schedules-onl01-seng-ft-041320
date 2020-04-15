@@ -1,5 +1,8 @@
 def batch_badge_creator(names)
-  names.each {|name| puts "Hello, my name is #{name}."}
+  badge_array=[]
+  names.each for |name| 
+  badge_array>>""
+  end
 end
 
 def assign_rooms(speaker)
