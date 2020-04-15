@@ -19,3 +19,8 @@ def assign_rooms(speaker)
   end
   room_list
 end
+
+def printer(badges, rooms)
+  puts "#{batche_badge_creator(badges)}"
+  puts "#{assign_rooms(rooms)"
+end
