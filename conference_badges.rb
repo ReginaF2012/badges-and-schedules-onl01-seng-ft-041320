@@ -1,3 +1,7 @@
+def badge_maker(name)
+  "Hellow, my name is #{name}"
+end
+
 def batch_badge_creator(names)
   badge_array=[]
   names.each do |badge| 
