@@ -21,5 +21,5 @@ def assign_rooms(speaker)
 end
 
 def printer(array)
-  puts "#{badge_array}"
+  puts "#{badge_maker}"
 end
